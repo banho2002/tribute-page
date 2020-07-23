@@ -1,0 +1,62 @@
+#title {
+    text-align: center;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: bold;
+    font-size: 38px;
+    padding: 10px;
+}
+
+main{
+    background-color: #e6e4e1;
+}
+
+#theman {
+    text-align: center;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+#img-div {
+    background-color: white;
+    margin-right: 14px;
+    margin-left: 14px;
+    padding: 10px;
+}
+
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+h3 {
+    font-family: "Noto Sans JP", sans-serif;
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    line-height: 2.5;
+    font-family: "Noto Sans JP";
+    font-size: 14px;
+    margin: 0px auto 50px;
+}
+
+#quote {
+    max-width: 550px;
+    font-family: "Noto Sans JP";
+    font-style: italic;
+    margin: 0px auto 50px;
+}
+
+#entry {
+    font-size: 20px;
+    font-family: "Noto Sans JP";
+    text-align: center;
+    padding: 10px;
+}
